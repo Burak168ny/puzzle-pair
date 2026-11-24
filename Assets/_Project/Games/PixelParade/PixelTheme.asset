@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0219681681d0d429136696908dd1ef, type: 3}
+  m_Name: PixelTheme
+  m_EditorClassIdentifier: 
+  Palette:
+  - {r: 0.9490196, g: 0.32941177, b: 0.35686275, a: 1}
+  - {r: 1, g: 0.8235294, b: 0.24705882, a: 1}
+  - {r: 0.23137255, g: 0.69803923, b: 0.4509804, a: 1}
+  - {r: 0.24313726, g: 0.5568628, b: 0.87058824, a: 1}
+  - {r: 1, g: 0.62352943, b: 0.10980392, a: 1}
+  - {r: 0.60784316, g: 0.3647059, b: 0.8980392, a: 1}
+  - {r: 1, g: 0.49411765, b: 0.7137255, a: 1}
+  - {r: 0.96862745, g: 0.95686275, b: 0.91764706, a: 1}
+  - {r: 0.20392157, g: 0.21176471, b: 0.30980393, a: 1}
+  - {r: 0.6039216, g: 0.38431373, b: 0.2509804, a: 1}
+  - {r: 0.29803923, g: 0.7882353, b: 0.9411765, a: 1}
+  - {r: 0.654902, g: 0.8784314, b: 0.3529412, a: 1}
+  - {r: 0.9647059, g: 0.78039217, b: 0.57254905, a: 1}
+  Frame: {r: 1, g: 1, b: 1, a: 1}
+  Belt: {r: 0.22745098, g: 0.25490198, b: 0.34117648, a: 1}
+  BeltStripe: {r: 0.30980393, g: 0.34509805, b: 0.4509804, a: 1}
+  Slot: {r: 0.6627451, g: 0.7176471, b: 0.81960785, a: 1}
+  SlotWarning: {r: 0.9490196, g: 0.32941177, b: 0.35686275, a: 1}
+  Shadow: {r: 0.1, g: 0.12, b: 0.25, a: 0.16}
+  Confetti:
+  - {r: 1, g: 0.3647059, b: 0.56078434, a: 1}
+  - {r: 1, g: 0.8235294, b: 0.24705882, a: 1}
+  - {r: 0.29803923, g: 0.7882353, b: 0.9411765, a: 1}
+  - {r: 0.23137255, g: 0.69803923, b: 0.4509804, a: 1}
+  - {r: 0.60784316, g: 0.3647059, b: 0.8980392, a: 1}
+  - {r: 1, g: 0.62352943, b: 0.10980392, a: 1}
+  BeltGap: 1.5
+  BeltWidth: 1.5
+  SlotSpacing: 2.1
+  LaneSpacing: 2.4
+  QueueSpacing: 2
+  VisiblePerLane: 3
+  ShooterSize: 1.7
+  TickInterval: 0.06
+  ProjectileSpeed: 60
+  Block: {fileID: 21300000, guid: 63f04d55ffba02e4b8d726379c7b0b93, type: 3}
+  BlockShine: {fileID: 21300000, guid: 1fb4f9a4aa8e79241846df84fba56867, type: 3}
+  Circle: {fileID: 21300000, guid: baeeb9f9c7c064c4c81e635bcefd9b25, type: 3}
+  Ring: {fileID: 21300000, guid: 83c493bed1a6d6948a5b5c031514a726, type: 3}
+  Square: {fileID: 21300000, guid: bbb1acb33fda53048b71ad999157468c, type: 3}
+  SoftShadow: {fileID: 21300000, guid: f6423067c79610e429b79d8e04c595eb, type: 3}
+  Chevron: {fileID: 21300000, guid: 8e7ddac7d74a23240826b9b156df2502, type: 3}
+  Rounded: {fileID: 21300000, guid: 8233a9d59b678a94ebefbda05a00b0c2, type: 3}
+  LineMaterial: {fileID: 2100000, guid: 741f89c9698a8d04ab4545a35e97bf6e, type: 2}

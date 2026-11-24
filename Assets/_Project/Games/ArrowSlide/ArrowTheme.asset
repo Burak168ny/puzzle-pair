@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea5901ec5949e084fb17d62fad399e29, type: 3}
+  m_Name: ArrowTheme
+  m_EditorClassIdentifier: 
+  Ink: {r: 0.16862746, g: 0.19607843, b: 0.27058825, a: 1}
+  Blocked: {r: 0.8980392, g: 0.28235295, b: 0.3019608, a: 1}
+  Hint: {r: 0.18431373, g: 0.5019608, b: 0.92941177, a: 1}
+  Dot: {r: 0.8117647, g: 0.77254903, b: 0.7019608, a: 1}
+  BoardFill: {r: 0.972549, g: 0.9607843, b: 0.93333334, a: 1}
+  Shadow: {r: 0.17, g: 0.2, b: 0.27, a: 0.13}
+  Confetti:
+  - {r: 0.29803923, g: 0.43137255, b: 0.9607843, a: 1}
+  - {r: 0.9490196, g: 0.7176471, b: 0.019607844, a: 1}
+  - {r: 0.8980392, g: 0.28235295, b: 0.3019608, a: 1}
+  - {r: 0.18431373, g: 0.7019608, b: 0.5019608, a: 1}
+  - {r: 1, g: 0.5411765, b: 0.23921569, a: 1}
+  - {r: 0.60784316, g: 0.3647059, b: 0.8980392, a: 1}
+  LineWidth: 0.15
+  HeadSize: 0.56
+  DotSize: 0.1
+  ShadowOffset: {x: 0.05, y: -0.08}
+  EscapeStartSpeed: 8
+  EscapeMaxSpeed: 36
+  EscapeAcceleration: 110
+  BumpSpeed: 18
+  LineMaterial: {fileID: 2100000, guid: 6b10aeeee1282634c8d268c8a1fc557b, type: 2}
+  HeadSprite: {fileID: 21300000, guid: 10538c47154c77f4991aae57528a2acf, type: 3}
+  DotSprite: {fileID: 21300000, guid: baeeb9f9c7c064c4c81e635bcefd9b25, type: 3}
+  BoardSprite: {fileID: 21300000, guid: 8233a9d59b678a94ebefbda05a00b0c2, type: 3}

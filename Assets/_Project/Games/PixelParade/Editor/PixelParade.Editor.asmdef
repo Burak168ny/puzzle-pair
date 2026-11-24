@@ -1,0 +1,23 @@
+{
+    "name": "PixelParade.Editor",
+    "rootNamespace": "PixelParade.Editor",
+    "references": [
+        "PixelParade.Model",
+        "PixelParade.Game",
+        "PuzzlePair.Common",
+        "PuzzlePair.Common.Editor",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

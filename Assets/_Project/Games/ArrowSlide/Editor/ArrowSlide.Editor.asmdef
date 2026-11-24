@@ -1,0 +1,23 @@
+{
+    "name": "ArrowSlide.Editor",
+    "rootNamespace": "ArrowSlide.Editor",
+    "references": [
+        "ArrowSlide.Model",
+        "ArrowSlide.Game",
+        "PuzzlePair.Common",
+        "PuzzlePair.Common.Editor",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
